@@ -1,0 +1,23 @@
+{
+
+    "servers": [
+
+        {
+
+            "name": "SideStore",
+
+            "address": "https://ani.sidestore.io"
+
+        },
+
+        {
+
+            "name": "SelfHost",
+
+            "address": "https://anisette-v3-server-iv3r.onrender.com"
+
+        }
+
+    ]
+
+}
