@@ -16,6 +16,14 @@
 
             "address": "https://anisette-v3-server-iv3r.onrender.com"
 
+        },
+
+        {
+
+            "name": "SelfHost2",
+
+            "address": "https://anisette-v3-server-illo.onrender.com"
+
         }
 
     ]
